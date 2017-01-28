@@ -6,8 +6,7 @@ Currently you can't see the app on heroku anymore due to a server error, but her
 
 ##### home
 
-![home](/Users/AstirdWang/Desktop/myweb/project/B-M/screenshot/home.png) 
-
+![home](https://raw.githubusercontent.com/Astriddddzx/B-M/blob/master/screenshot/home.png) 
 
 
 
