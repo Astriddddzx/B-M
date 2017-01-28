@@ -13,7 +13,7 @@ Currently you can't see the app on heroku anymore due to a server error, but her
 
 ##### chatroom
 
-![chatroom](/Users/AstirdWang/Desktop/myweb/project/B-M/screenshot/chatroom.png)
+![chatroom](https://github.com/Astriddddzx/B-M/blob/master/screenshot/chatroom.png)
 
 
 
@@ -21,22 +21,22 @@ Currently you can't see the app on heroku anymore due to a server error, but her
 
 ##### chatroom created!
 
-![create](/Users/AstirdWang/Desktop/myweb/project/B-M/screenshot/create.png)
+![create](https://github.com/Astriddddzx/B-M/blob/master/screenshot/create.png)
 
 
 
 Now let's enter it to see what it looks like!
 
-![enterchat](/Users/AstirdWang/Desktop/myweb/project/B-M/screenshot/enterchat.png)
+![enterchat](https://github.com/Astriddddzx/B-M/blob/master/screenshot/enterchat.png)
 
 
 
 Let's say something…(author was really sad some error happened at 5AM and she has an exam the next day…student problems)
 
-![usechat](/Users/AstirdWang/Desktop/myweb/project/B-M/screenshot/usechat.png)
+![usechat](https://github.com/Astriddddzx/B-M/blob/master/screenshot/usechat.png)
 
 
 
 ##### you can also add photos to your chat!
 
-![photo](/Users/AstirdWang/Desktop/myweb/project/B-M/screenshot/photo.png)
+![photo](https://github.com/Astriddddzx/B-M/blob/master/screenshot/photo.png)
